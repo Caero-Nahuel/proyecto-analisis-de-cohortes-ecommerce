@@ -117,5 +117,6 @@ Conectando datos con estrategia de negocio.
 
 ---
 
-Este proyecto utiliza el dataset público  
-**"Brazilian E-Commerce Public Dataset by Olist"**, disponible en *Kaggle*.
+Este proyecto utiliza el dataset público:
+
+🔗 [**Brazilian E-Commerce Public Dataset by Olist**](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce/) disponible en *Kaggle*.
